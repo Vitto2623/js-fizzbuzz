@@ -1,0 +1,24 @@
+ul{
+    list-style: none;
+    font-weight: 500;
+}
+/*CLASSI-PER-SPECIFICARE-LE-VARIE-SEZIONI*/
+.box--fizz-buzz{
+    color: red;
+}
+
+.box--fizz{
+    color: blue;
+}
+
+.box--buzz{
+    color: green;
+}
+
+.normale{
+    background-color: black;
+}
+
+li{
+    margin-bottom: 10px;
+}
